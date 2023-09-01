@@ -1,2 +1,4 @@
 # GUI-microcontroller-data
-GUI for viewing and working with data received from the microcontroller
+GUI for viewing and working with data received from the microcontroller  
+Утилита для просмотра и работы с данными, получаемыми с микроконтроллера. Стек технологий: Python, PyQT5. Краткое описание задачи: разработать пользовательский интерфейс, позволяющий просматривать данные с датичков и манипулировать светодиодами.
+### Не забыть! Оформлю когда найду программу
