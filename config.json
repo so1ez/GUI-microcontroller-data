@@ -1,0 +1,20 @@
+{
+  "uiFileName": "PyQt_app.ui",
+  "uiPath": "ui/",
+  "defaultMDNSname": "esp8266",
+  "defaultPostRoute": "/postvalue", 
+  "defaultGetRoute": "/sensval",
+  "pressure": "355",
+  "temperature": [2, 45, 56, 66, 12, 30, 23, 25, 22, 15],
+  "button1State": "True",
+  "button2State": "False",
+  "button3State": "True",
+  "ambient_light": "1",
+  "red_light": "1",
+  "green_light":"1",
+  "blue_light":"0",
+  "lightness": "0",
+  "acceleration_x": "12",
+  "acceleration_y": "23",
+  "acceleration_z": "11"
+}

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="img">
+    <file>led_off.svg</file>
+    <file>led_on.svg</file>
+    <file>off.svg</file>
+    <file>ON.svg</file>
+  </qresource>
+  <qresource prefix="img2">
+    <file>Svet.png</file>
+  </qresource>
+</RCC>

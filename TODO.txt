@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=CnMfhhx0GBI&list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&index=3&ab_channel=%D0%93%D0%BE%D1%88%D0%B0%D0%94%D1%83%D0%B4%D0%B0%D1%80%D1%8C
+
+создаем UI
+сохраняем .ui
+преобразуем через cmd  в .py в каталоге рабочем
+	pyuic5 -x PyQt_app.ui -o main.py
+нужна библиотека для Py: в консоди Visual Studio вбиваем: python -m pip install requests
+
+
+
+
+для компиляции py-программы  в .exe:
+
+# Открыть командную строку windows 
+# Установить pyinstaller 
+
+pip install pyinstaller 
+
+# Затем перейти в папку с Вашим файлом .py в командной строке (при помощи команды cd) 
+# Запустить команду pyinstaller не забудьте указать имя вашего скрипта 
+
+pyinstaller --onefile main.py 
+
+# Всё - у вас в папке появится папка src и там будет .exe файл. 

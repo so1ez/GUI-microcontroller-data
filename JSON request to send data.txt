@@ -1,0 +1,45 @@
+{
+    "leds1": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+    },
+    "leds2": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+    },
+    "leds3": {
+        "red": 84,
+        "green": 69,
+        "blue": 255
+    },
+    "leds4": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+    },
+    "leds5": {
+        "red": 102,
+        "green": 255,
+        "blue": 173
+    },
+    "leds6": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+    },
+    "leds7": {
+        "red": 222,
+        "green": 255,
+        "blue": 58
+    },
+    "leds8": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+    },
+    "LED1": false,
+    "LED2": false,
+    "LED3": false
+}
